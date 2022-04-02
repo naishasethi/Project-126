@@ -31,4 +31,15 @@ color: black;
 #volume {
     font-size: 23px;
     margin: 15px;
+   
+}
+canvas {
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+.play_button {
+    width: 130px;
+    font-size: 25px;
+    background-color:lawngreen;
 }
